@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/heitorrbarros/victorizejs#readme",
   "dependencies": {
+    "lodash": "^4.17.11",
     "typescript": "^3.4.2"
   },
   "devDependencies": {
@@ -26,6 +27,7 @@
     "@babel/preset-env": "^7.4.3",
     "@babel/preset-typescript": "^7.3.3",
     "@types/jest": "^24.0.11",
+    "@types/lodash": "^4.14.123",
     "babel-jest": "^24.7.1",
     "jest": "^24.7.1"
   }
