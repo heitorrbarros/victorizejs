@@ -1,0 +1,31 @@
+{
+  "name": "victorizejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heitorrbarros/victorizejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heitorrbarros/victorizejs/issues"
+  },
+  "homepage": "https://github.com/heitorrbarros/victorizejs#readme",
+  "dependencies": {
+    "typescript": "^3.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-typescript": "^7.3.3",
+    "babel-jest": "^24.7.1",
+    "jest": "^24.7.1"
+  }
+}
